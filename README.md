@@ -4,7 +4,7 @@
 <img align='right' alt='coding' width='400' src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riitiika123&label=Profile%20views&color=0e75b6&style=flat" alt="riitiika123" /> </p>
 
-- 🔭 I’m currently working on [Home Service App]([https://github.com/Riitiika123](https://github.com/Riitiika123/Home.Service.App))
+- 🔭 I’m currently working on [Home Service App]([https://github.com/Riitiika123](https://github.com/Riitiika123/Home.Service.App)
 
 - 🌱 I’m currently learning **Firebase for flutter**
 
