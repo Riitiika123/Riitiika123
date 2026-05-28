@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **State Management GETX in Flutter**
 
-- 👨‍💻 All of my projects are available at [https://ritiikaaportfolio.netlify.app/](https://ritiikaaportfolio.netlify.app/)
+- 👨‍💻 Visit [myPortfolio](https://ritika-portfolio-omega.vercel.app/)
 
 - 💬 Ask me about **flutter**
 
